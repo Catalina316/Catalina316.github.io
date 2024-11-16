@@ -1,0 +1,17 @@
+nav {
+  background-color: black;
+  color: white;
+}
+.margenBoton {
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+}
+a .colorLogo {
+  color: white;
+}
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
